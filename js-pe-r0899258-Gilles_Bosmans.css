@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+h2{
+    font-size: 1.3rem;
+}
+
+#showMessage{
+    margin-top: 4rem;
+}
+
+#errorsYikes{
+    padding: 0.1rem;
+    margin: 0.3rem;
+    background-color: #f533333d;
+    color: #af0b0b;
+    border-radius: 3px;
+}
+
+#success{
+    padding: 0.1rem;
+    margin: 0.3rem;
+    background-color: #259c2f3d;
+    color: #28963d;
+    border-radius: 3px;
+
+}
+
+#paymentSuccessful{
+    padding: 0.1rem;
+    margin: 0.3rem;
+    background-color: #4c6ec924;
+    color: #1156a6;
+    border-radius: 3px;
+}
